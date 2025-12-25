@@ -24,3 +24,20 @@ To develop a model that automatically analyzes incoming bug-report tickets and p
        -- DistilBERT: For severity classification
        -- Llama 3.2: For component attribution
        -- GPT 3.5: For data generation
+
+
+## Repositories structure
+```
+├── Data structure/                                                          # Ontology and synthetic datasets
+│   ├── enterprise_systems.json    
+│   ├── industries.json            
+│   └── generated_dataset.json                                               # Synthetic support tickets dataset
+│
+├── Documents/                                                               # Project presentations and reports
+│   ├── Automated-Tech-Support-Triage-Model-Introduction.pptx                # 1st presentation
+│   └── Interim-Presentation-Universal-Tech-Support-Triage-Model.pptx        # 2nd presentation
+│
+├── Automated-Tech-Support-Triage-Model.ipynb                                # End-to-end notebook
+│
+└── README.md                                                                # Project overview and documentation
+```
