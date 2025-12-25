@@ -37,7 +37,9 @@ To develop a model that automatically analyzes incoming bug-report tickets and p
 │
 ├── Documents/                                                               # Project presentations and reports
 │   ├── Automated-Tech-Support-Triage-Model-Introduction.pptx                # 1st presentation
-│   └── Interim-Presentation-Universal-Tech-Support-Triage-Model.pptx        # 2nd presentation
+│   ├── Interim-Presentation-Universal-Tech-Support-Triage-Model.pptx        # 2nd presentation
+│   ├── Automated-Tech-Support-Triage-Model-Introduction.pdf                 
+│   └── Interim-Presentation-Universal-Tech-Support-Triage-Model.pdf        
 │
 ├── Automated-Tech-Support-Triage-Model.ipynb                                # End-to-end notebook
 │
